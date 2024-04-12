@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+
+}.addnewdiv{border: 2px solid black;
+  width: 30%;
+  display: flex;
+  flex-direction: column;
+  margin-left: auto;
+  justify-content: center;
+  align-items: center;
+  margin-right: auto;
+  margin-top: 5%;
+
+
+}
+.productdiv{padding: 10%;}
+.form{display: flex;
+  /* width: 80%; */
+  flex-direction: column;
+  justify-content: space-evenly;
+  div{display: flex;
+  justify-content: space-between;
+  margin-bottom: 8%;
+  }
+  button{margin-bottom: 5%;}
+
+}
